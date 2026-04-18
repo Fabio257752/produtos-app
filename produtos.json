@@ -1,7 +1,52 @@
 [
   {
-    "nome": "Produto 1",
+    "nome": "Fone Bluetooth TWS",
+    "preco": 19.90,
+    "link": "https://s.shopee.com.br/AUqB4566dS"
+  },
+  {
+    "nome": "Smartwatch Esportivo",
+    "preco": 39.90,
+    "link": "https://s.shopee.com.br/3LN0Wy0q0R"
+  },
+  {
+    "nome": "Lâmpada LED RGB",
+    "preco": 15.90,
+    "link": "https://s.shopee.com.br/W2p9p18lY"
+  },
+  {
+    "nome": "Suporte Veicular Celular",
+    "preco": 12.90,
+    "link": "https://s.shopee.com.br/3VgQjLpWPW"
+  },
+  {
+    "nome": "Mini Liquidificador USB",
     "preco": 29.90,
-    "link": "https://seulink.com"
+    "link": "https://s.shopee.com.br/1BIVxBmNDX"
+  },
+  {
+    "nome": "Fone Bluetooth Air Pro",
+    "preco": 22.90,
+    "link": "https://s.shopee.com.br/4LFXj2DVmO"
+  },
+  {
+    "nome": "Relógio Digital Smart",
+    "preco": 34.90,
+    "link": "https://s.shopee.com.br/1qYCkVlfqh"
+  },
+  {
+    "nome": "Fone Bluetooth Esportivo",
+    "preco": 18.90,
+    "link": "https://s.shopee.com.br/3VgQjb5OPx"
+  },
+  {
+    "nome": "LED Decorativo Quarto",
+    "preco": 16.90,
+    "link": "https://s.shopee.com.br/8V56h17AZh"
+  },
+  {
+    "nome": "Acessório Celular Universal",
+    "preco": 14.90,
+    "link": "https://s.shopee.com.br/6AhBumEhdO"
   }
 ]
