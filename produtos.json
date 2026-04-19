@@ -2,23 +2,22 @@
   {
     "id": 1,
     "nome": "Fone de ouvido Bluetooth",
-    "preco": "29.90",
+    "preco": 29.90,
     "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
     "link": "https://s.shopee.com.br/8fOXAtWnez"
   },
   {
     "id": 2,
     "nome": "Cafeteira",
-    "descricao": "Confira este produto com ótimo custo-benefício disponível na Shopee.",
+    "preco": 79.90,
     "imagem": "https://i.ibb.co/nsq66w7g/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
-    "link": "https://s.shopee.com.br/BPyk3n5rI",
-    "preco": "Ver na Shopee"
+    "link": "https://s.shopee.com.br/BPyk3n5rI"
   },
-{
-  "id": 3,
-  "nome": "Fone de ouvido Bluetooth",
-  "preco": "Ver na Shopee",
-  "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
-  "link": "https://s.shopee.com.br/AUqB4566dS"
-}
+  {
+    "id": 3,
+    "nome": "Fone de ouvido Bluetooth",
+    "preco": null,
+    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
+    "link": "https://s.shopee.com.br/AUqB4566dS"
+  }
 ]
