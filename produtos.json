@@ -1,9 +1,17 @@
 [
   {
+    "id": 1,
     "nome": "Produto em Destaque",
     "preco": "29.90",
     "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
     "link": "https://s.shopee.com.br/8fOXAtWnez"
+  },
+  {
+    "id": 2,
+    "nome": "Produto Shopee",
+    "descricao": "Confira este produto com ótimo custo-benefício disponível na Shopee.",
+    "imagem": "https://i.ibb.co/XXXX/imagem.png",
+    "link": "https://s.shopee.com.br/BPyk3n5rI",
+    "preco": "Ver na Shopee"
   }
 ]
-{
