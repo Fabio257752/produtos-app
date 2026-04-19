@@ -1,8 +1,14 @@
 [
   {
-    "nome": "Produto em Destaque",
-    "preco": "29.90",
-    "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
-    "link": "https://s.shopee.com.br/8fOXAtWnez"
+    "nome": "Fone de Ouvido Bluetooth",
+    "preco": "89.90",
+    "imagem": "https://i.ibb.co/xSKXX21C/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
+    "link": "https://s.shopee.com.br/BPyk3n5rI"
+  },
+  {
+    "nome": "Cafeteira",
+    "preco": "",
+    "imagem": "https://i.ibb.co/SEU-CODIGO-AQUI/imagem-da-cafeteira.jpg",
+    "link": "https://s.shopee.com.br/LINK-DA-CAFETEIRA"
   }
 ]
