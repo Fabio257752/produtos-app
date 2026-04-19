@@ -5,12 +5,5 @@
     "preco_formatado": "R$ 89,90",
     "imagem": "https://i.ibb.co/xSKXX21C/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
     "link": "https://s.shopee.com.br/BPyk3n5rI"
-  },
-  {
-    "nome": "Cafeteira Elétrica",
-    "preco": "156.75",
-    "preco_formatado": "R$ 156,75",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0zq2v4v4v4v4v4_xxhdpi", 
-    "link": "https://s.shopee.com.br/LINK-DA-CAFETEIRA"   // ← Troque pelo link real quando tiver
   }
 ]
