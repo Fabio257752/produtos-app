@@ -1,14 +1,8 @@
-{
-  "product_id": "974102638",
-  "title": "Nome completo do produto aqui",
-  "price": 99.90,
-  "original_price": 129.90,
-  "affiliate_link": "https://s.shopee.com.br/8fOXAtWnez",
-  "image_url": "https://ibb.co/N6q6PmkL",
-  "brand": "",
-  "seller": "",
-  "rating": 4.8,
-  "sales": "1.2mil",
-  "category": "",
-  "created_at": "2026-04-19"
-}
+[
+  {
+    "nome": "Produto em Destaque",
+    "preco": "29.90",
+    "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
+    "link": "https://s.shopee.com.br/8fOXAtWnez"
+  }
+]
