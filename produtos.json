@@ -1,5 +1,12 @@
 [
   {
+    "id": 1,
+    "nome": "Fone de ouvido Bluetooth",
+    "preco": 29.90,
+    "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
+    "link": "https://s.shopee.com.br/8fOXAtWnez"
+  },
+  {
     "id": 2,
     "nome": "Cafeteira",
     "preco": 79.90,
@@ -12,5 +19,12 @@
     "preco": null,
     "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
     "link": "https://s.shopee.com.br/AUqB4566dS"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Smartwatch",
+    "preco": 149.84,
+    "imagem": "https://i.ibb.co/s9n4kkDr/Shopee-21fd282f2c7a21eaf1024bfc69ea2723.jpg",
+    "link": "https://s.shopee.com.br/3LN0Wy0q0R"
   }
-    ]
+]
