@@ -12,26 +12,5 @@
     "preco": 79.90,
     "imagem": "https://i.ibb.co/nsq66w7g/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
     "link": "https://s.shopee.com.br/BPyk3n5rI"
-  },
-  {
-    "id": 3,
-    "nome": "Fone de ouvido Bluetooth Premium",
-    "preco": null,
-    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
-    "link": "https://s.shopee.com.br/AUqB4566dS"
-  },
-  {
-    "id": 4,
-    "nome": "Relógio Smartwatch",
-    "preco": 149.84,
-    "imagem": "https://i.ibb.co/ZYW3VTp/watch.jpg",
-    "link": "https://s.shopee.com.br/8fOXAtWnez"
-  },
-  {
-    "id": 5,
-    "nome": "Mini Smartwatch",
-    "preco": 164.10,
-    "imagem": "https://i.ibb.co/6r4W9bF/smartwatch2.jpg",
-    "link": "https://s.shopee.com.br/8fOXAtWnez"
   }
 ]
