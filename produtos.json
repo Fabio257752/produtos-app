@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "nome": "Fone de ouvido Bluetooth",
-    "preco": 29.90,
-    "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
-    "link": "https://s.shopee.com.br/8fOXAtWnez"
-  },
-  {
     "id": 2,
     "nome": "Cafeteira",
     "preco": 79.90,
