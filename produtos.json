@@ -3,38 +3,35 @@
     "id": 1,
     "nome": "Fone de ouvido Bluetooth",
     "preco": 29.90,
-    "imagem": ["https://ibb.co"],
-    "link": "https://shopee.com.br"
+    "imagem": "https://i.ibb.co/RpKpmBMC/no-mark-React-Native-snapshot-image-0.png",
+    "link": "https://s.shopee.com.br/8fOXAtWnez"
   },
   {
     "id": 2,
     "nome": "Cafeteira",
     "preco": 79.90,
-    "imagem": ["https://ibb.co"],
-    "link": "https://shopee.com.br"
+    "imagem": "https://i.ibb.co/nsq66w7g/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
+    "link": "https://s.shopee.com.br/BPyk3n5rI"
   },
   {
     "id": 3,
     "nome": "Fone de ouvido Bluetooth",
     "preco": null,
-    "imagem": ["https://ibb.co"],
-    "link": "https://shopee.com.br"
+    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
+    "link": "https://s.shopee.com.br/AUqB4566dS"
   },
   {
     "id": 4,
     "nome": "Relógio Smartwatch",
     "preco": 149.84,
-    "imagem": ["https://ibb.co"],
-    "link": "https://shopee.com.br"
+    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
+    "link": "https://s.shopee.com.br/8fOXAtWnez"
   },
   {
     "id": 5,
     "nome": "Mini Smartwatch",
     "preco": 164.10,
-    "imagem": [
-      "https://i.ibb.co/tpQv7m8G/Shopee-cb6e6faa3bca57fe4fbb23fbb40ae4f5.jpg",
-      "https://i.ibb.co/4wHZQsYg/Shopee-3fe517f5597e78470437bcde7158546e.jpg"
-    ],
-    "link": "https://s.shopee.com.br/3VgQjLpWPW"
+    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
+    "link": "https://s.shopee.com.br/8fOXAtWnez"
   }
 ]
