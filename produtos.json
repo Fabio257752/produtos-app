@@ -12,5 +12,33 @@
     "preco": 79.90,
     "imagem": "https://i.ibb.co/nsq66w7g/Shopee-ef58eae89898cd889b353ad17b9269e4.jpg",
     "link": "https://s.shopee.com.br/BPyk3n5rI"
+  },
+  {
+    "id": 3,
+    "nome": "Fone de ouvido Bluetooth",
+    "preco": null,
+    "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
+    "link": "https://s.shopee.com.br/AUqB4566dS"
+  },
+  {
+    "id": 4,
+    "nome": "Relógio Smartwatch",
+    "preco": 149.84,
+    "imagem": "https://i.ibb.co/s9n4kkDr/Shopee-21fd282f2c7a21eaf1024bfc69ea2723.jpg",
+    "link": "https://s.shopee.com.br/3LN0Wy0q0R"
+  },
+  {
+    "id": 5,
+    "nome": "Mini Smartwatch",
+    "preco": 164.10,
+    "imagem": "https://i.ibb.co/tpQv7m8G/Shopee-cb6e6faa3bca57fe4fbb23fbb40ae4f5.jpg",
+    "link": "https://s.shopee.com.br/3VgQjLpWPW"
+  },
+  {
+    "id": 6,
+    "nome": "Kit linha churrasco Flamengo",
+    "preco": 59.99,
+    "imagem": "https://i.ibb.co/CKqRzjg0/no-mark-React-Native-snapshot-image-1.png",
+    "link": "https://s.shopee.com.br/1VvVNWSxEq"
   }
 ]
