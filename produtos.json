@@ -54,5 +54,12 @@
     "preco": 39.90,
     "imagem": "https://i.ibb.co/qFXjstyw/no-mark-React-Native-snapshot-image-3.png",
     "link": "https://s.shopee.com.br/9UxmwONUq1"
+  },
+  {
+    "id": 9,
+    "nome": "Mochila floral",
+    "preco": 39.90,
+    "imagem": "https://i.ibb.co/T5H2mLq/no-mark-React-Native-snapshot-image-4.png",
+    "link": "https://s.shopee.com.br/16hdapLkY"
   }
 ]
