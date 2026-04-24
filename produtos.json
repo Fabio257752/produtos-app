@@ -47,5 +47,12 @@
     "preco": 159.99,
     "imagem": "https://i.ibb.co/DDGmgQBg/no-mark-React-Native-snapshot-image-2.png",
     "link": "https://s.shopee.com.br/5L8DxHrmfB"
+  },
+  {
+    "id": 8,
+    "nome": "Colar mãe de filho",
+    "preco": 39.90,
+    "imagem": "https://i.ibb.co/qFXjstyw/no-mark-React-Native-snapshot-image-3.png",
+    "link": "https://s.shopee.com.br/9UxmwONUq1"
   }
 ]
