@@ -68,5 +68,12 @@
     "preco": 17.90,
     "imagem": "https://i.ibb.co/DDDyMVGj/no-mark-React-Native-snapshot-image-5.png",
     "link": "https://s.shopee.com.br/60Nun5qXcy"
+  },
+  {
+    "id": 11,
+    "nome": "Parafusadeira Furadeira",
+    "preco": 94.00,
+    "imagem": "https://i.ibb.co/9B7M0Pb/no-mark-React-Native-snapshot-image-6.png",
+    "link": "https://s.shopee.com.br/3qJQDXIXEw"
   }
 ]
