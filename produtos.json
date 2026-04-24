@@ -61,5 +61,12 @@
     "preco": 39.90,
     "imagem": "https://i.ibb.co/T5H2mLq/no-mark-React-Native-snapshot-image-4.png",
     "link": "https://s.shopee.com.br/16hdapLkY"
+  },
+  {
+    "id": 10,
+    "nome": "Body splash encanto lily",
+    "preco": 17.90,
+    "imagem": "https://i.ibb.co/DDDyMVGj/no-mark-React-Native-snapshot-image-5.png",
+    "link": "https://s.shopee.com.br/60Nun5qXcy"
   }
 ]
