@@ -16,7 +16,7 @@
   {
     "id": 3,
     "nome": "Fone de ouvido Bluetooth",
-    "preco": null,
+    "preco": 17.99,
     "imagem": "https://i.ibb.co/4R24CxZg/Shopee-3da361e7c9bfdc41b84fd9cfc0ada746.jpg",
     "link": "https://s.shopee.com.br/AUqB4566dS"
   },
@@ -40,5 +40,12 @@
     "preco": 59.99,
     "imagem": "https://i.ibb.co/CKqRzjg0/no-mark-React-Native-snapshot-image-1.png",
     "link": "https://s.shopee.com.br/1VvVNWSxEq"
+  },
+  {
+    "id": 7,
+    "nome": "Inova caixa de som Bluetooth",
+    "preco": 159.99,
+    "imagem": "https://i.ibb.co/DDGmgQBg/no-mark-React-Native-snapshot-image-2.png",
+    "link": "https://s.shopee.com.br/5L8DxHrmfB"
   }
 ]
