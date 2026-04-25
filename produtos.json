@@ -75,5 +75,12 @@
     "preco": 94.00,
     "imagem": "https://i.ibb.co/9B7M0Pb/no-mark-React-Native-snapshot-image-6.png",
     "link": "https://s.shopee.com.br/3qJQDXIXEw"
+  },
+  {
+    "id": 12,
+    "nome": "Caixa de som Soundbar PC",
+    "preco": 68.99,
+    "imagem": "https://i.ibb.co/3m6t1mx8/no-mark-React-Native-snapshot-image-7.png",
+    "link": "https://s.shopee.com.br/1Lc5ysvHhB"
   }
 ]
