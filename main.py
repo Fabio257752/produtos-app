@@ -64,21 +64,23 @@ class SplashScreen(BoxLayout):
 
         self.img = AsyncImage(
             source=SPLASH_IMG,
+            size_hint=(1, 1),
             allow_stretch=True,
             keep_ratio=False
         )
 
         self.add_widget(self.img)
 
-        # só continua quando carregar
         self.img.bind(on_load=self.imagem_carregada)
+
+        # fallback caso imagem não carregue
+        Clock.schedule_once(self.ir_para_app, 5)
 
     def update_bg(self, *args):
         self.bg.pos = self.pos
         self.bg.size = self.size
 
     def imagem_carregada(self, *args):
-        # tempo extra depois de carregar
         Clock.schedule_once(self.ir_para_app, 3)
 
     def ir_para_app(self, dt):
@@ -139,7 +141,6 @@ class ProductCard(BoxLayout):
 
         img = AsyncImage(
             source=produto.get("imagem", ""),
-            allow_stretch=True,
             keep_ratio=True
         )
 
@@ -191,7 +192,6 @@ class ProductCard(BoxLayout):
         self.add_widget(btn)
 
         self.animar_botao(btn)
-
         Clock.schedule_interval(self.atualizar_prova_social, 3)
 
     def atualizar_prova_social(self, dt):
